@@ -1,0 +1,191 @@
+[
+	{
+		"id" : 1,
+		"Category" : "Starter",
+		"Description" : "Saláta csirkemellel, uborkával, pirított kenyérkockával",
+		"Name" : "Cézár saláta",
+		"Price" : 700,
+		"Spicy" : 0,
+		"Vegatarian" : 0
+	},
+	{
+		"id" : 2,
+		"Category" : "Starter",
+		"Description" : "Amerikai káposztasaláta",
+		"Name" : "Coleslaw",
+		"Price" : 500,
+		"Spicy" : 0,
+		"Vegatarian" : 0
+	},
+	{
+		"id" : 3,
+		"Category" : "Starter",
+		"Description" : "Tökmag pestoval",
+		"Name" : "Tócsni",
+		"Price" : 750,
+		"Spicy" : 0,
+		"Vegatarian" : 1
+	},
+	{
+		"id" : 4,
+		"Category" : "Soup",
+		"Description" : "Csigatésztával vagy májgaluskával",
+		"Name" : "Húsleves",
+		"Price" : 800,
+		"Spicy" : 0,
+		"Vegatarian" : 0
+	},
+	{
+		"id" : 5,
+		"Category" : "Soup",
+		"Description" : "Tejfölös csülkös",
+		"Name" : "Bableves",
+		"Price" : 1000,
+		"Spicy" : 0,
+		"Vegatarian" : 0
+	},
+	{
+		"id" : 6,
+		"Category" : "Soup",
+		"Description" : "Tejszínhabbal, erdei gyümölcsökkel",
+		"Name" : "Gyümölcsleves",
+		"Price" : 1000,
+		"Spicy" : 0,
+		"Vegatarian" : 1
+	},
+	{
+		"id" : 7,
+		"Category" : "Soup",
+		"Description" : "Pontyból, harcsából és busából",
+		"Name" : "Halászlé",
+		"Price" : 1500,
+		"Spicy" : 1,
+		"Vegatarian" : 0
+	},
+	{
+		"id" : 8,
+		"Category" : "MainDish",
+		"Description" : "Törtburgonyával",
+		"Name" : "Pacalpörkölt",
+		"Price" : 1200,
+		"Spicy" : 0,
+		"Vegatarian" : 1
+	},
+	{
+		"id" : 9,
+		"Category" : "MainDish",
+		"Description" : "Törtburgonyával",
+		"Name" : "Pacalpörkölt",
+		"Price" : 1200,
+		"Spicy" : 0,
+		"Vegatarian" : 0
+	},
+	{
+		"id" : 10,
+		"Category" : "MainDish",
+		"Description" : "",
+		"Name" : "Bécsi szelet",
+		"Price" : 2500,
+		"Spicy" : 0,
+		"Vegatarian" : 0
+	},
+	{
+		"id" : 11,
+		"Category" : "MainDish",
+		"Description" : "Rizzsel, vagy hasábburgonyával",
+		"Name" : "Rántott cukkini",
+		"Price" : 1500,
+		"Spicy" : 0,
+		"Vegatarian" : 1
+	},
+	{
+		"id" : 12,
+		"Category" : "MainDish",
+		"Description" : "Galuskával",
+		"Name" : "Marhapörkölt",
+		"Price" : 2500,
+		"Spicy" : 0,
+		"Vegatarian" : 1
+	},
+	{
+		"id" : 13,
+		"Category" : "Pizza",
+		"Description" : "Paradicsomszósz, bazsalikom",
+		"Name" : "Pizza Margherita",
+		"Price" : 1000,
+		"Spicy" : 0,
+		"Vegatarian" : 1
+	},
+	{
+		"id" : 14,
+		"Category" : "Pizza",
+		"Description" : "Tonhalas, paradicsomos, mozzarellás",
+		"Name" : "Pizza Tonno",
+		"Price" : 1500,
+		"Spicy" : 0,
+		"Vegatarian" : 0
+	},
+	{
+		"id" : 15,
+		"Category" : "Pizza",
+		"Description" : "Négyféle sajttal",
+		"Name" : "Pizza Quattro Formaggi",
+		"Price" : 2000,
+		"Spicy" : 0,
+		"Vegatarian" : 1
+	},
+	{
+		"id" : 16,
+		"Category" : "Pizza",
+		"Description" : "Sonkával, pikáns szalámival, füstölt kolbásszal",
+		"Name" : "Húsimádó Pizza",
+		"Price" : 2000,
+		"Spicy" : 1,
+		"Vegatarian" : 0
+	},
+	{
+		"id" : 17,
+		"Category" : "Dessert",
+		"Description" : "",
+		"Name" : "Somlói galuska",
+		"Price" : 1000,
+		"Spicy" : 0,
+		"Vegatarian" : 0
+	},
+	{
+		"id" : 18,
+		"Category" : "Drink",
+		"Description" : null,
+		"Name" : "Coca-Cola",
+		"Price" : 300,
+		"Spicy" : null,
+		"Vegatarian" : null
+	},
+	{
+		"id" : 19,
+		"Category" : "Drink",
+		"Description" : null,
+		"Name" : "Ásványvíz",
+		"Price" : 300,
+		"Spicy" : null,
+		"Vegatarian" : null
+	},
+	{
+		"id" : 20,
+		"Category" : "Drink",
+		"Description" : null,
+		"Name" : "Házi limonádé",
+		"Price" : 650,
+		"Spicy" : null,
+		"Vegatarian" : null
+	},
+	{
+		"id" : 21,
+		"Category" : "Drink",
+		"Description" : null,
+		"Name" : "Red Bull",
+		"Price" : 700,
+		"Spicy" : null,
+		"Vegatarian" : null
+	}
+]
