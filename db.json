@@ -1,4 +1,5 @@
-{
+{ "MenuItems": [
+	{
 		"id" : 1,
 		"Category" : "Starter",
 		"Description" : "Saláta csirkemellel, uborkával, pirított kenyérkockával",
@@ -187,3 +188,5 @@
 		"Spicy" : null,
 		"Vegatarian" : null
 	}
+]
+}
